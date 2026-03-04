@@ -4,6 +4,15 @@
 
 ---
 
+安全报告 | Safety Report
+
+安恒云沙箱：https://sandbox.dbappsecurity.com.cn/report/04d0311a-3a22-462c-9f4b-d6550f01acb6
+
+virustotal：https://www.virustotal.com/gui/file/f76a753be609a7c81792088dac753ddfcfd7ef5073269905073c1cccdda15472/detection
+
+TX：https://tix.qq.com/search/single?keyword=c48a168f46444c0841ff3fd8e551e25a
+
+---
 ## 中文版本
 
 ### 项目简介
